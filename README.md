@@ -51,3 +51,7 @@ export default {
 p
 </docs>
 ```
+
+## LICENSE
+
+[MIT](./LICENSE)
